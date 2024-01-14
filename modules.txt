@@ -1,1 +1,2 @@
 https://api.github.com/repos/BlassGO/something/contents
+json: https://raw.githubusercontent.com/BlassGO/something/main/bb.txt
