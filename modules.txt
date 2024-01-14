@@ -1,2 +1,1 @@
-https://raw.githubusercontent.com/BlassGO/something/main/bootanimation_maker.json
-https://raw.githubusercontent.com/BlassGO/something/main/uwu.json
+https://api.github.com/repos/BlassGO/AutoIMG_Modules/contents
