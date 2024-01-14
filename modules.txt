@@ -1,1 +1,1 @@
-https://api.github.com/repos/BlassGO/AutoIMG_Modules/contents
+https://api.github.com/repos/BlassGO/something/contents
