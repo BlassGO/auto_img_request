@@ -1,1 +1,2 @@
 https://api.github.com/repos/BlassGO/AutoIMG_Modules/contents
+https://api.github.com/repos/GT-DarkGod14/Modules-for-Auto-img/contents
